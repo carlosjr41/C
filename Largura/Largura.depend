@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1378345678 source:h:\google drive\tpa\largura\main.c
+	"largura.h"
+
+1378345700 h:\google drive\tpa\largura\largura.h
+	<stdio.h>
+	<stdlib.h>
+
+1376441228 source:h:\google drive\tpa\largura\largura.c
+	"largura.h"
+
