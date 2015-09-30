@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1375886435 source:c:\users\20101bsi0011\documents\profundidade\grafos.c
+	"grafos.h"
+
+1375886106 c:\users\20101bsi0011\documents\profundidade\grafos.h
+	<stdio.h>
+	<stdlib.h>
+
+1375886631 source:c:\users\20101bsi0011\documents\profundidade\main.c
+	"grafos.h"
+
+1375886872 source:h:\google drive\tpa\profundidade\grafos.c
+	"grafos.h"
+
+1376436122 h:\google drive\tpa\profundidade\grafos.h
+	<stdio.h>
+	<stdlib.h>
+
+1377569930 source:h:\google drive\tpa\profundidade\main.c
+	"grafos.h"
+
