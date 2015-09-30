@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1377568802 source:h:\google drive\tpa\prim\main.c
+	"prim.h"
+
+1377569618 h:\google drive\tpa\prim\prim.h
+	<stdio.h>
+	<stdlib.h>
+
+1377569618 source:h:\google drive\tpa\prim\prim.c
+	"prim.h"
+
